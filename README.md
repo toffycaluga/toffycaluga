@@ -88,16 +88,7 @@ My main interest is to gain experience and more knowledge to perform better as a
 
 <h1 align="center">
 ✨ Where you can find me ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 <p align="center">
   <br/>
@@ -119,7 +110,7 @@ My main interest is to gain experience and more knowledge to perform better as a
 
 <div align = "center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
