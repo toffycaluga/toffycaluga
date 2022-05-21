@@ -6,9 +6,10 @@
 
 ## About Me
 
-Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey My Name is Abraham Lillo, i am a circus clown with a wide tray in the field. Currently entering as dev full stack javascript.
+My main interest is to gain experience and more knowledge to perform better as a developer.
 
-## Coding Profiles
+<!-- ## Coding Profiles
 
 <a href="https://www.codechef.com/users/night_king_">
   <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -18,7 +19,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
   <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
-<hr/>
+<hr/> -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -65,20 +66,20 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>PostgreSQL</strong></span><br><br><br>
+        <img height="64px" src="https://dwglogo.com/wp-content/uploads/2017/09/Postgresql_logo-1024x705.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>expressJs</strong></span><br><br><br>
+        <img height="64px" src="https://itguru.vn/blog/wp-content/uploads/2020/06/Express-JS-logo.jpg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://clipground.com/images/clipart-bootstrap.jpg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>jQuery</strong></span><br><br><br>
+        <img height="64px" src="https://logodix.com/logo/941103.png">
       </td>
     </tr>
   </tbody>
