@@ -49,7 +49,11 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
-      
+      <td width="25%" align="center">
+        <span><strong>NodeJs</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://colorlib.com/wp/wp-content/uploads/sites/2/node.js-logo.png">
+      </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -60,7 +64,22 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
       </td>
     </tr>
     <tr valign="top">
-     
+      <td width="25%" align="center">
+        <span><strong>Django</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+      </td>
     </tr>
   </tbody>
 </table>
