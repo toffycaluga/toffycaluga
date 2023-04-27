@@ -6,8 +6,9 @@
 
 ## About Me
 
-Hey My Name is Abraham Lillo, i am a circus clown with a wide tray in the field. Currently entering as dev full stack javascript.
-My main interest is to gain experience and more knowledge to perform better as a developer.
+My work history is somewhat unusual: for 15 years I worked as a circus clown, filling thousands of people with joy and fun. However, the pandemic forced me to rethink my career and I decided to enter the world of programming.
+Currently, I work as a freelancer and I have gained a lot of experience and knowledge in a short time. I am passionate about teamwork and I am a fast learner, always looking for opportunities to improve my skills and knowledge.
+My circus experience has taught me the importance of being creative, resourceful and adaptable in any situation, which I believe are very valuable qualities in the world of programming. I am excited to continue to grow in this industry and know that my previous experience gives me a unique and valuable perspective on software development.
 
 <!-- ## Coding Profiles
 
