@@ -109,6 +109,7 @@ My circus experience has taught me the importance of being creative, resourceful
 </div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
+- 🌱currently studying Ruby on Rails
 
 <!--
 **toffycaluga/toffycaluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
