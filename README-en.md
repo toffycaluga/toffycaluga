@@ -1,4 +1,4 @@
-[Lee esto en Español](https://github.com/toffycaluga/toffycaluga/blob/main/README-es.md)
+[Lee esto en Español](https://github.com/toffycaluga/toffycaluga/blob/main/README.md)
 ### Hi there 👋
 
 </h2>
