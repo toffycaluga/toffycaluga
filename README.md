@@ -103,7 +103,7 @@ My circus experience has taught me the importance of being creative, resourceful
 
 <div align = "center">
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)
 
 <hr>
 
