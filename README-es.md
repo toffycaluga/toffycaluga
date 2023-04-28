@@ -102,7 +102,7 @@ sé que mi experiencia previa me da una perspectiva única y valiosa en el desar
 
 <div align = "center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)-->
 
 <hr>
 
