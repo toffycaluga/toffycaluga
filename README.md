@@ -7,10 +7,15 @@
 
 ## Sobre mi
 
-Mi historia laboral es un tanto inusual: durante 15 años me desempeñé como payaso circense, llenando de alegría y diversión a miles de personas. Sin embargo, la pandemia me obligó a repensar mi carrera y decidí adentrarme en el mundo de la programación.
-Actualmente, me desempeño como freelancer y he adquirido una gran cantidad de experiencia y conocimientos en poco tiempo. Me apasiona trabajar en equipo y soy un aprendiz rápido, siempre buscando oportunidades para mejorar mis habilidades y conocimientos.
-Mi experiencia circense me ha enseñado la importancia de ser creativo, ingenioso y adaptable en cualquier situación, lo cual creo que son cualidades muy valiosas en el mundo de la programación. Estoy emocionado de seguir creciendo en esta industria y 
-sé que mi experiencia previa me da una perspectiva única y valiosa en el desarrollo de software.
+Mi camino profesional ha sido inusual y lleno de diversidad. Durante 15 años, llevé la alegría y la diversión como payaso circense, haciendo sonreír a miles de personas. Sin embargo, la pandemia me presentó un nuevo desafío y una oportunidad para reinventarme. Decidí adentrarme en el apasionante mundo de la programación.
+
+En la actualidad, me desempeño como freelancer y he adquirido una valiosa experiencia y conocimientos en poco tiempo. Mi transición me ha enseñado la importancia de ser creativo, ingenioso y adaptable en cualquier situación, habilidades que considero extremadamente valiosas en el mundo de la programación.
+
+Soy un aprendiz rápido y me emociona trabajar en equipo para enfrentar desafíos y superar obstáculos. Siempre busco oportunidades para mejorar mis habilidades y conocimientos, y estoy dispuesto a asumir nuevos retos que me permitan crecer profesionalmente.
+
+Mi experiencia previa en el circo me ha brindado una perspectiva única en el desarrollo de software. He aprendido a lidiar con la presión, a trabajar bajo condiciones cambiantes y a mantenerme enfocado en los objetivos. Estoy convencido de que estas habilidades, combinadas con mi pasión por la programación, me convierten en un profesional adaptable y capaz de aportar soluciones innovadoras.
+
+Estoy entusiasmado por seguir creciendo en esta industria en constante evolución y estoy abierto a nuevas oportunidades que me permitan ampliar mi horizonte en el desarrollo de software. ¡Trabajemos juntos para crear soluciones que hagan la diferencia!
 <!-- ## Coding Profiles
 
 -->
