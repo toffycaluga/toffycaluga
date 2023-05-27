@@ -1,8 +1,7 @@
 [Lee esto en Español](https://github.com/toffycaluga/toffycaluga/blob/main/README.md)
 ### Hi there 👋
-
-</h2>
 ![https://github.com/toffycalua](https://github.com/toffycaluga/toffycaluga/blob/main/banner-github.jpg)
+
 <hr/>
 
 ## About Me
