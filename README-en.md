@@ -7,10 +7,15 @@
 
 ## About Me
 
-My work history is somewhat unusual: for 15 years I worked as a circus clown, filling thousands of people with joy and fun. However, the pandemic forced me to rethink my career and I decided to enter the world of programming.
-Currently, I work as a freelancer and I have gained a lot of experience and knowledge in a short time. I am passionate about teamwork and I am a fast learner, always looking for opportunities to improve my skills and knowledge.
-My circus experience has taught me the importance of being creative, resourceful and adaptable in any situation, which I believe are very valuable qualities in the world of programming. I am excited to continue to grow in this industry and know that my previous experience gives me a unique and valuable perspective on software development.
+My career journey has been unusual and filled with diversity. For 15 years, I brought joy and laughter as a circus clown, putting smiles on the faces of thousands of people. However, the pandemic compelled me to rethink my career, and I decided to venture into the exciting world of programming.
 
+Currently, I work as a freelancer and have gained valuable experience and knowledge in a short span of time. My transition has taught me the importance of being creative, resourceful, and adaptable in any situation, qualities I believe are highly valuable in the programming world.
+
+I am a quick learner and thrive in team environments, embracing challenges and constantly seeking opportunities to enhance my skills and knowledge. I am eager to tackle new endeavors that allow me to grow professionally.
+
+My prior circus experience has provided me with a unique perspective in software development. I have learned to handle pressure, work under changing conditions, and remain focused on goals. I am confident that these skills, coupled with my passion for programming, make me an adaptable professional capable of offering innovative solutions.
+
+I am excited to continue expanding in this ever-evolving industry and open to new opportunities that broaden my horizons in software development. Let's work together to create solutions that make a difference!
 <!-- ## Coding Profiles
 
 -->
