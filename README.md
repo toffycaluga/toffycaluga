@@ -107,6 +107,11 @@ Estoy entusiasmado por seguir creciendo en esta industria en constante evolució
 </h1>
 
 <div align = "center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffycaluga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Fernando Jerez's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)-->
 
