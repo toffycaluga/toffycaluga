@@ -120,7 +120,7 @@ Estoy entusiasmado por seguir creciendo en esta industria en constante evolució
 </div>
 
 <h3>Gracias por pasar por aqui! 😊</h3>
-- 🌱actualmente estudiando Ruby on Rails
+- - 🔭 I’m currently working on ... Desafio Latam
 
 <!--
 **toffycaluga/toffycaluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
