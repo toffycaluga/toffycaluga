@@ -1,125 +1,54 @@
 [Lee esto en Español](https://github.com/toffycaluga/toffycaluga/blob/main/README.md)
-### Hi there 👋
-![https://github.com/toffycalua](https://github.com/toffycaluga/toffycaluga/blob/main/banner-github.jpg)
+<!-- [read this page in English](https://github.com/toffycaluga/toffycaluga/blob/main/README-en.md) -->
+### ¡¡Hi there👋, I´m Abraham Lillo Lillo!!
+![https://github.com/toffycaluga](https://github.com/toffycaluga/toffycaluga/blob/main/banner-github.jpg)
+
 
 <hr/>
 
-## About Me
+## About me 
+Hello, GitHub community! I am a software developer with a unique professional trajectory that combines 16 years of experience as a circus clown with my burgeoning career in technology. This blend has taught me the immense value of creativity, resilience, and the ability to quickly adapt to new challenges, skills that I apply daily in software development.
 
-My career journey has been unusual and filled with diversity. For 15 years, I brought joy and laughter as a circus clown, putting smiles on the faces of thousands of people. However, the pandemic compelled me to rethink my career, and I decided to venture into the exciting world of programming.
+Following the pandemic, I decided to reinvent myself professionally, diving into the world of programming. Although I did not complete my degree in Computer Engineering due to financial reasons, I have compensated for this with intensive fullstack bootcamps in JavaScript and Ruby on Rails, and recently I have been expanding my knowledge in TypeScript.
 
-Currently, I work as a freelancer and have gained valuable experience and knowledge in a short span of time. My transition has taught me the importance of being creative, resourceful, and adaptable in any situation, qualities I believe are highly valuable in the programming world.
+As a freelance developer, I have worked on various projects, notably creating an application for circus artists that facilitates their participation in international festivals. This project not only reflects my technical ability but also my capacity to understand and solve specific problems in niche industries.
 
-I am a quick learner and thrive in team environments, embracing challenges and constantly seeking opportunities to enhance my skills and knowledge. I am eager to tackle new endeavors that allow me to grow professionally.
+My professional goals are to continue developing my technical skills, with a particular focus on modern frameworks and emerging technologies such as artificial intelligence and machine learning. I am looking for opportunities that challenge me and allow me to contribute to innovative projects.
 
-My prior circus experience has provided me with a unique perspective in software development. I have learned to handle pressure, work under changing conditions, and remain focused on goals. I am confident that these skills, coupled with my passion for programming, make me an adaptable professional capable of offering innovative solutions.
+I remain active in the circus world while advancing in my technology career, and I am convinced that the combination of these experiences makes me a unique professional. I encourage other developers to connect with me to explore how we can collaborate and create technological solutions that make a difference!
+## 📫 Contact
 
-I am excited to continue expanding in this ever-evolving industry and open to new opportunities that broaden my horizons in software development. Let's work together to create solutions that make a difference!
-<!-- ## Coding Profiles
 
--->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>NodeJs</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://colorlib.com/wp/wp-content/uploads/sites/2/node.js-logo.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>PostgreSQL</strong></span><br><br><br>
-        <img height="64px" src="https://dwglogo.com/wp-content/uploads/2017/09/Postgresql_logo-1024x705.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>expressJs</strong></span><br><br><br>
-        <img height="64px" src="https://itguru.vn/blog/wp-content/uploads/2020/06/Express-JS-logo.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>bootstrap</strong></span><br><br><br>
-        <img height="64px" src="https://clipground.com/images/clipart-bootstrap.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>jQuery</strong></span><br><br><br>
-        <img height="64px" src="https://logodix.com/logo/941103.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
+- You can contact me via my email:**<abraham.lillol@gmail.com>**
+- You can contact me through **[Linkedin](https://www.linkedin.com/in/abraham-lillo-lillo)**
+- You can visit my **[web site](https://toffycaluga-portfolio.vercel.app/)**
 
-<h1 align="center">
-✨ Where you can find me ✨
 
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/abraham-lillo-lillo-27b545233/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/toffycaluga">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
+### 🎨 Frontend
 
-  <br/>
- 
-  <a href="https://www.instagram.com/toffy_caluga/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-</p>
-</h1>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<div align = "center">
+### 🔨 Backend
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
+
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📎 Herramientas
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffycaluga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Abraham Lillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)
 
-[![Fernando Jerez's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toffycaluga&show_icons=true&theme=transparent)
-
-<hr>
-
-</div>
-
-<h3>Thanks for Stopping by!! 😊</h3>
-- 🌱currently studying Ruby on Rails
+### Thank you for stopping by! 😊
+- - 🔭 i'm currently working on... Desafio Latam
 
 <!--
 **toffycaluga/toffycaluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
