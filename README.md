@@ -16,13 +16,13 @@ Como desarrollador freelance, he trabajado en diversos proyectos, destacándome 
 
 Mis metas profesionales son continuar desarrollando mis habilidades técnicas, con un enfoque particular en frameworks modernos y tecnologías emergentes como la inteligencia artificial y el aprendizaje automático. Busco oportunidades que me retén y me permitan contribuir a proyectos innovadores.
 
-Sigo activo en el mundo del circo mientras avanzo en mi carrera tecnológica, y estoy convencido de que la combinación de estas experiencias me hace un profesional único. ¡Animo a otros desarrolladores a conectarse conmigo para explorar cómo podemos colaborar y crear soluciones tecnológicas que marquen la diferencia!necesidades y preferencias.
+Sigo activo en el mundo del circo mientras avanzo en mi carrera tecnológica, y estoy convencido de que la combinación de estas experiencias me hace un profesional único. ¡Animo a otros desarrolladores a conectarse conmigo para explorar cómo podemos colaborar y crear soluciones tecnológicas que marquen la diferencia!
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<abraham.lillol@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/abraham-lillo-lillo)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes visitar mi **[sitio web](https://toffycaluga-portfolio.vercel.app/)**
 
 ### 🎨 Frontend
 
