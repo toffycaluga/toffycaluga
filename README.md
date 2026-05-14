@@ -145,7 +145,7 @@ Sitio web multilingüe para una compañía profesional de trapecistas, con galer
 
 ---
 
-### 🕹️ Toffy's Dev Quest
+### 🕹️ [Toffy's Dev Quest](https://github.com/toffycaluga/toffycaluga-portfolio)
 
 Portafolio interactivo inspirado en consolas retro, construido con JavaScript, Canvas, CSS e internacionalización.
 
@@ -153,7 +153,7 @@ Portafolio interactivo inspirado en consolas retro, construido con JavaScript, C
 
 ---
 
-### 🎪 The Marlon Crew 3D Portfolio
+### 🎪 [The Marlon Crew 3D Portfolio](https://github.com/toffycaluga/the-marlon-crew-3d-portfolio)
 
 Portafolio 3D inmersivo para una compañía de trapecistas, con ambiente circense, estructuras personalizadas, iluminación dinámica y vistas interactivas.
 
